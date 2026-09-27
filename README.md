@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @tesslagoblin
+- 👀 I'm interested in fashion, branding, social media and automation
+- 🤖 I use AI to make creative and marketing work faster while keeping it on-brand, and I pay close attention to where AI falls short in creative work
+- 📫 How to reach me: tesslavenusgoodwin@gmail.com
+- ⚡ Fun fact: I'm writing a TV pilot with help from an AI assistant I built named Mr. Shrimp 🦐
