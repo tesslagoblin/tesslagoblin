@@ -1,5 +1,7 @@
-- 👋 Hi, I'm @tesslagoblin
-- 👀 I'm interested in fashion, branding, social media and automation
-- 🤖 I use AI to make creative and marketing work faster while keeping it on-brand, and I pay close attention to where AI falls short in creative work
+- 👋 Hi, I'm Tessla. I work in fashion marketing, and I'm writing a TV pilot.
+- 🧠 How I use AI: it does the legwork, my voice stays mine. My tools make AI interview instead of write, keep my raw words next to its analysis, and stop to ask instead of guessing.
+- 👗 Fashion + brand: [fashion-brand-claude-skills](https://github.com/tesslagoblin/fashion-brand-claude-skills) keeps AI on-brand for my label, [Fenclaw & Faund](https://www.fenclawandfaund.com/)
+- 🎬 Screenwriting: [character-bible-toolkit](https://github.com/tesslagoblin/character-bible-toolkit) and [screenwriting-craft-bank](https://github.com/tesslagoblin/screenwriting-craft-bank)
+- 📺 For fun: [notion-tv-tracker](https://github.com/tesslagoblin/notion-tv-tracker), my own replacement for TV Time
 - 📫 How to reach me: tesslavenusgoodwin@gmail.com
-- ⚡ Fun fact: I'm writing a TV pilot with help from an AI assistant I built named Mr. Shrimp 🦐
+- ⚡ Fun fact: my writing assistant is an AI I built named Mr. Shrimp 🦐, and he helped build the screenwriting tools above
